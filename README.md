@@ -14,6 +14,8 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+Parking at Queens College CUNY - Queens NYC is a very busy city making finding parking difficult leading to being late to classes and causes more stress. Most of this knowledge
+
 ---
 
 ## Document Sources
@@ -24,16 +26,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Reddit | thread | https://www.reddit.com/r/QueensCollege/comments/1g45ejk/parking/ |
+| 2 | Reddit | Thread | https://www.reddit.com/r/QueensCollege/comments/yptzg/where_to_park_at_queens_college/ |
+| 3 | Queens College | Website | https://www.qc.cuny.edu/ps/parking-traffic-regulations/ |
+| 4 | Queens College | Website | https://www.qc.cuny.edu/ps/parking/ |
+| 5 | Reddit | Thread | https://www.reddit.com/r/QueensCollege/comments/yptzg/where_to_park_at_queens_college/ |
+| 6 | Queens College | PDF | https://www.qc.cuny.edu/ps/wp-content/uploads/sites/56/2025/06/Parking-Instructions-2025-2026.pdf |
+| 7 | Queens College | Website | https://www.qc.cuny.edu/a/campus-access/ |
+| 8 | Reddit | Thread | https://www.reddit.com/r/AskNYC/comments/wl183a/do_we_trust_spothero/ |
+| 9 | SpotAngel | Website | https://www.spotangels.com/blog/nyc-parking-tickets-where-youre-likely-to-get-one-and-how-spotangels-can-pay-for-it/ |
+| 10 | Reddit | Thread| https://www.reddit.com/r/QueensCollege/comments/12toied/anyone_have_some_parking_tips/ |
 
 ---
 
